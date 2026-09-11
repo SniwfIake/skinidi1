@@ -1,0 +1,6 @@
+name = "skinidi1"
+main = "src/index.js"
+compatibility_date = "2024-01-01"
+
+[vars]
+ANILIST_URL = "https://graphql.anilist.co"
